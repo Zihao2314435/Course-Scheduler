@@ -58,6 +58,3 @@ The application is organized into several groups of classes:
 
 This project was completed as part of Penn State's CMPSC 221 coursework.
 
-## Academic Context
-
-This project was completed as part of Penn State's CMPSC 311 coursework.
