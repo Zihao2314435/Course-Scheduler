@@ -68,5 +68,4 @@ The database must be available and configured for the application to access its 
 
 This project was completed as part of Penn State's CMPSC 221 coursework.
 
-## Screenshot
 
