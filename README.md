@@ -48,8 +48,8 @@ Database operations are organized into query classes, while the connection logic
 ## Application Structure
 
 - **`MainFrame`** - Provides the graphical user interface and handles user interactions.
-- **Query classes** - Execute database operations for students, courses, classes, semesters, and schedules.
-- **Entry classes** - Represent application data and database records.
+- **`Query classes`** - Execute database operations for students, courses, classes, semesters, and schedules.
+- **`Entry classes`** - Represent application data and database records.
 - **`DBConnection`** - Establishes the JDBC connection to the Apache Derby database.
 
 This organization separates GUI behavior, database operations, and data representation into distinct parts of the application.
