@@ -1,4 +1,4 @@
-## Course Scheduler
+# Course Scheduler
 
 A Java desktop application for managing students, courses, semesters, and class schedules, developed using Java Swing, JDBC, SQL, and Apache Derby.
 
